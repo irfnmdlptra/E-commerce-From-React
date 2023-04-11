@@ -29,3 +29,9 @@ a{
   text-decoration: none !important;
   display: inline-block;
 }
+
+/* header Part Start  */
+  .header-top-strip{
+    background: var(--bg-color);
+  }
+/* header Part End */
