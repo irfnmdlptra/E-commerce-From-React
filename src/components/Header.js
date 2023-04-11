@@ -1,10 +1,12 @@
-import React from 'react'
+import React from "react";
+import { Navlink, Link } from "react-router-dom";
 
 const Header = () => {
-  return (
-    <div>Header</div>
-  )
-}
+  return <>
+  <header className="header-top-strip">
+  
+  </header>
+  </>
+};
 
-export default Header
-
+export default Header;
