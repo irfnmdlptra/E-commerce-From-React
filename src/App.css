@@ -45,6 +45,7 @@ body.active {
 
 a{
   text-decoration: none !important;
+  margin-bottom: 0;
   display: inline-block;
 }
 
