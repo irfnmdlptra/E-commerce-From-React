@@ -8,6 +8,22 @@ body {
   font-family: "Rubik", sans-serif;
 }
 
+
+:root {
+  --violet: #6d28d9;
+  --purple: #7e22ce;
+  --green: #25d366;
+  --red: #ff014f;
+  --bg-silver: #444;
+  --gray:  rgba(59, 48, 33, 0.9);
+  --light-color: #777;
+  --bg-color: #e6e6e6;
+  --border: 0.1rem solid rgba(0, 0, 0, 0.2);
+  --box-shadow: 0.4rem 0.4rem 1rem #ccc, -0.4rem -0.4rem 1rem #fff;
+  --box-shadow-inset: 0.4rem 0.4rem 1rem #ccc inset, -0.4rem -0.4rem 1rem #fff inset;
+  --box-shadow-color: 4px 4px 6px 0 rgba(255, 255, 255, 0.5), -4px -4px 6px 0 rgba(116, 125, 136, 0.5), inset -4px -4px 6px 0 rgba(255, 255, 255, 0.2), inset 4px 4px 6px 0 rgba(0, 0, 0, 0.4);
+}
+
 a {
   text-decoration: none;
   display: inline-block;
