@@ -7,10 +7,10 @@ const Header = () => {
     <div className="container-xxl">
       <div className="row">
         <div className="col-lg-6">
-          <p>Download For App Mobile</p>
+          <p className="text-white">Download For App Mobile</p>
         </div>
         <div className="col-lg-6">
-          <p className="text-end">
+          <p className="text-end text-white">
             Layanan <a href="tel:+62 89630025703">+62 89630056703</a>
           </p>
         </div>
