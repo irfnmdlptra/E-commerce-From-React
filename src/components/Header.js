@@ -10,7 +10,8 @@ const Header = () => {
           <p>Download For App Mobile</p>
         </div>
         <div className="col-lg-6">
-          <p>Layanan <a href="tel:+62 89630025703">+62 89630056703</a>
+          <p className="text-end">
+            Layanan <a href="tel:+62 89630025703">+62 89630056703</a>
           </p>
         </div>
       </div>
