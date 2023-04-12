@@ -53,11 +53,26 @@ a{
 /* header Part Start  */
   .header-top{
     background: var(--bg-black);
-    border-bottom: 1px solid var(--color-3b4149);
+    border-bottom: 2px solid var(--color-3b4149);
   }
 
   .header-nav {
     background: var(--bg-black);
+  }
+
+  .header-nav .input-group-text{
+    background: white;
+    border: none;
+  }
+  .header-nav .form-control{
+    background: white;
+    border: none;
+  }
+  
+  .header-nav .form-control:focus{
+    background: white;
+    border: none;
+    box-shadow: none;
   }
 
 
