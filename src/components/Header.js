@@ -36,7 +36,9 @@ const Header = () => {
               </div>
             </div>
             <div className="col-5">
-              .
+              <div className="header-nav-link d-flex align-items-center justify-content-between">
+
+              </div>
             </div>
           </div>
         </div>
