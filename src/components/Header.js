@@ -19,7 +19,15 @@ const Header = () => {
       </div>
     </header>
     <header className="header-nav py-3 ">
-        
+        <div className="container-xxl">
+          <div className="row">
+            <div className="col-2">
+              <Link>Shopfrieger</Link>
+            </div>
+            <div className="col-5"></div>
+            <div className="col-5"></div>
+          </div>
+        </div>
     </header>
     </>
   );
