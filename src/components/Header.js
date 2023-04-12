@@ -28,7 +28,7 @@ const Header = () => {
             </div>
             <div className="col-5">
               <div className="input-group mb-3">
-                <input type="text" className="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2" />
+                <input type="text" className="form-control" placeholder="Cari Product disini" aria-label="Cari Product disini" aria-describedby="basic-addon2" />
                 <span className="input-group-text" id="basic-addon2">
                   @example.com
                 </span>
