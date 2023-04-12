@@ -29,10 +29,10 @@ const Header = () => {
             </div>
             <div className="col-5">
               <div className="input-group mb-3">
-                <span className="input-group-text" id="basic-addon2">
+                <span className="input-group-text ps-3" id="basic-addon2">
                   <BsSearch/>
                 </span>
-                <input type="text" className="form-control" placeholder="Cari Product disini" aria-label="Cari Product disini" aria-describedby="basic-addon2" />
+                <input type="text" className="form-control py-2" placeholder="Cari Product disini" aria-label="Cari Product disini" aria-describedby="basic-addon2" />
               </div>
             </div>
             <div className="col-5"></div>
