@@ -74,6 +74,9 @@ a{
     border: inherit;
     box-shadow: none;
   }
-
+  
+  .header-nav .header-nav-link img{
+    width: 28px;
+  }
 
 /* header Part End */
