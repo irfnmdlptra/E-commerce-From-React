@@ -37,7 +37,26 @@ const Header = () => {
             </div>
             <div className="col-5">
               <div className="header-nav-link d-flex align-items-center justify-content-between">
-
+                <div>
+                  <Link>
+                  <img src="/public/images/header-icon/trolly.png" alt="" />
+                  </Link>
+                </div>
+                <div>
+                  <Link>
+                  <img src="/public/images/header-icon/trolly.png" alt="" />
+                  </Link>
+                </div>
+                <div>
+                  <Link>
+                  <img src="/public/images/header-icon/trolly.png" alt="" />
+                  </Link>
+                </div>
+                <div>
+                  <Link>
+                  <img src="/public/images/header-icon/trolly.png" alt="" />
+                  </Link>
+                </div>
               </div>
             </div>
           </div>
