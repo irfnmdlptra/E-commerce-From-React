@@ -32,6 +32,7 @@ body.active {
   --red: #ff014f;
   --green: #ff014d00;
   --black: #fff;
+  --color-3b4149: #3b4149;
   --gray: rgba(196, 207, 222, 0.9);
   --light-color: #ddd;
   --bg-color: #222;
@@ -51,7 +52,8 @@ a{
 
 /* header Part Start  */
   .header-top-strip{
-    /* background: var(--bg-black); */
+    background: var(--bg-black);
+    border-bottom: 1px solid var(--color-3b4149);
   }
 
 
