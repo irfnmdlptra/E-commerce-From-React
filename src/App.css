@@ -51,7 +51,7 @@ a{
 }
 
 /* header Part Start  */
-  .header-top-strip{
+  .header-top{
     background: var(--bg-black);
     border-bottom: 1px solid var(--color-3b4149);
   }
