@@ -71,7 +71,7 @@ a{
   
   .header-nav .form-control:focus{
     background: white;
-    border: none;
+    border: inherit;
     box-shadow: none;
   }
 
