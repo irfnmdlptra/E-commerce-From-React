@@ -56,5 +56,9 @@ a{
     border-bottom: 1px solid var(--color-3b4149);
   }
 
+  .header-nav {
+    background: var(--black);
+  }
+
 
 /* header Part End */

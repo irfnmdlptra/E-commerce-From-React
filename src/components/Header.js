@@ -22,7 +22,7 @@ const Header = () => {
         <div className="container-xxl">
           <div className="row">
             <div className="col-2">
-              <h2>
+              <h2 className="text-white">
               <Link>Shopfrieger</Link>
               </h2>
             </div>
