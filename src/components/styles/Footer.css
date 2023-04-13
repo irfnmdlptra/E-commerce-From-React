@@ -56,7 +56,7 @@
       
       .footer h4 {
         position: relative;
-        padding-bottom: 12px;
+        padding: 12px 0;
         font-family: "Poppins";
         font-style: normal;
         font-weight: 600;
