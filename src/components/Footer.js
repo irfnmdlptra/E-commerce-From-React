@@ -42,12 +42,12 @@ const Footer = () => {
             </ul>
             <h4>Ikuti Kami</h4>
             <div className="social-links d-flex mt-4">
-              <a target="_blank" style="background: #0d6efd" href="https://www.facebook.com/profile.php?id=100078030621794&mibextid=ZbWKwL" className="facebook"><i className="bi bi-facebook text-white"></i></a>
-              <a target="_blank" style="background: #0dcaf0" href="https://twitter.com/WajuBerru?s=20&t=MSbSYrXF0x--NmeToTSJwA" className="linkedin"><i className="bi bi-twitter text-white"></i></a>
+              <a target="_blank" style={{background: '#0d6efd'}} href="https://www.facebook.com/profile.php?id=100078030621794&mibextid=ZbWKwL" className="facebook"><i className="bi bi-facebook text-white"></i></a>
+              <a target="_blank" style={{background: '#0dcaf0'}} href="https://twitter.com/WajuBerru?s=20&t=MSbSYrXF0x--NmeToTSJwA" className="linkedin"><i className="bi bi-twitter text-white"></i></a>
 
-              <a target="_blank" style="background: #dc3545" href="https://wa.link/8am4je" className="linkedin"><i className="bi bi-pinterest text-white"></i></a>
+              <a target="_blank" style={{background: '#dc3545'}} href="https://wa.link/8am4je" className="linkedin"><i className="bi bi-pinterest text-white"></i></a>
 
-              <a target="_blank" style="background: #d63384" href="http://instagram.com/wajuberru" className="instagram"><i className="bi bi-instagram text-white"></i></a>
+              <a target="_blank" style={{background: '#d63384'}} href="http://instagram.com/wajuberru" className="instagram"><i className="bi bi-instagram text-white"></i></a>
             </div>
           </div>
 
