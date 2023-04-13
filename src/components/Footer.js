@@ -3,6 +3,8 @@ import  './styles/Footer.css';
 const Footer = () => {
   return (
     <>
+
+    
     <footer id="footer" className="footer">
       <div className="container-fluid">
         <div className="row gy-4 justify-content-center">
